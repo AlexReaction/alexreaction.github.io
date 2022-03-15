@@ -6,6 +6,7 @@ title: Digital receipts
 <h3>Digital Receipts</h3><br>
 This post will cover the topic of digital receipts. I will talk about Germany and my 
 personal feeling due to living in Germany. You may ask yourself what is a digital receipt.
+<!--more-->
 The simplist answer to this question I came up with is the following. A digital receipt is a 
 representation of a receipt which you would receive at the supermarket. The difference is that the 
 receipt will be saved on a digital device (in most cases that will be your smartphone). It can be stored
