@@ -23,7 +23,9 @@ because the tax office is now able to trace every transaction using the new uniq
 <h2>The current Situation</h2>
 Many supermarket chains already implemented the digital receipt in their own app. This is great but
 I am not willing to install several apps, one for each supermarket, on my smartphone just to have 
-every receipt in the corresponding app. This seems extremly counter intuitive because as a customer I
+every receipt in the corresponding app. <br>
+<br>
+This seems extremly counter intuitive because as a customer I
 want to have every receipt stored in one app. Besides the apps of the supermarkets / businesses there 
 are multiple apps that try to do exactly that. Some apps simply let you take a photo of the receipt and
 then store it in their app. This is a great idea but sadly does not reduce the amount of paper that is
@@ -35,7 +37,7 @@ I think many supermarkets don't like
 this idea because they want you to download their app because this app is also used to present sales and
 coupons which may influence you to shop at their store. That's the reason why they won't hand out the 
 storing of the receipt to other apps. <br>
-Another reason is that every supermarket or even business has a 
+<br>Another reason is that every supermarket or even business has a 
 slighty differrent register system and some of those system haven't been touched in a long time. That's
 why it extremly difficult to implement new changes to a register system. The register system would need
 some way to accept a QR code which is presented on the customers phone and then send a email / the receipt
