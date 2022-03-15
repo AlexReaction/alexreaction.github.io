@@ -4,8 +4,7 @@ title: Digital receipts
 ---
 
 <h3>Digital Receipts</h3><br>
-This post will cover the topic of digital receipts. I will talk about Germany and my 
-personal feeling due to living in Germany. You may ask yourself what is a digital receipt.
+This post will cover the topic of digital receipts. You may ask yourself what is a digital receipt.
 <!--more-->
 The simplist answer to this question I came up with is the following. A digital receipt is a 
 representation of a receipt which you would receive at the supermarket. The difference is that the 
@@ -29,10 +28,10 @@ want to have every receipt stored in one app. Besides the apps of the supermarke
 are multiple apps that try to do exactly that. Some apps simply let you take a photo of the receipt and
 then store it in their app. This is a great idea but sadly does not reduce the amount of paper that is
 wasted and does not use the fullest potential of the digital receipt idea.<br>
-Some other apps have contracts 
-with some businesses. They offer QR code which you can scan at the cashout and then receive the receipt
-digitaly in their app. This is great. This should be the way to go because every customer can
-decide wether he wants the receipt digitaly or printed on paper. I think many supermarkets don't like
+Some other apps have contracts with some businesses. They offer QR code which you can scan at 
+the cashout and then receive the receipt digitaly in their app. This is great. This should be the 
+way to go because every customer can decide wether he wants the receipt digitaly or printed on paper. 
+I think many supermarkets don't like
 this idea because they want you to download their app because this app is also used to present sales and
 coupons which may influence you to shop at their store. That's the reason why they won't hand out the 
 storing of the receipt to other apps. <br>
@@ -41,6 +40,12 @@ slighty differrent register system and some of those system haven't been touched
 why it extremly difficult to implement new changes to a register system. The register system would need
 some way to accept a QR code which is presented on the customers phone and then send a email / the receipt
 to the email addres or the profile that is associated with the QR code. 
+
+<h2>How I would tackle this</h2>
+Personally I would not do much different than the apps with the QR-code approach. This seems to be the 
+best way to enable costumer to receive the receipt digitaly on a smarthphone. However I would try to 
+convince the suermarkets to continue using their own app and also providing costumers "my" QR code so
+that everyone can decide what suits them best. 
 
 
 <h2>Conclusion</h2>
