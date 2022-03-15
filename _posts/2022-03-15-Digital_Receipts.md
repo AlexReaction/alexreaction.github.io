@@ -28,16 +28,14 @@ every receipt in the corresponding app. This seems extremly counter intuitive be
 want to have every receipt stored in one app. Besides the apps of the supermarkets / businesses there 
 are multiple apps that try to do exactly that. Some apps simply let you take a photo of the receipt and
 then store it in their app. This is a great idea but sadly does not reduce the amount of paper that is
-wasted and does not use the fullest potential of the digital receipt idea.
-<br>
+wasted and does not use the fullest potential of the digital receipt idea.<br>
 Some other apps have contracts 
 with some businesses. They offer QR code which you can scan at the cashout and then receive the receipt
 digitaly in their app. This is great. This should be the way to go because every customer can
 decide wether he wants the receipt digitaly or printed on paper. I think many supermarkets don't like
 this idea because they want you to download their app because this app is also used to present sales and
 coupons which may influence you to shop at their store. That's the reason why they won't hand out the 
-storing of the receipt to other apps. 
-<br>
+storing of the receipt to other apps. <br>
 Another reason is that every supermarket or even business has a 
 slighty differrent register system and some of those system haven't been touched in a long time. That's
 why it extremly difficult to implement new changes to a register system. The register system would need
