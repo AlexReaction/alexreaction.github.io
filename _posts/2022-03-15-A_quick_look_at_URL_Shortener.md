@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: A quick look at URL shortening
