@@ -52,7 +52,7 @@ receipts. This is my first real post so I am still learning how to write good po
 the best and have a great day.
 <br>
 <br>
-###### This article is still under reviews and might be edited.######
+<small>This article is still under reviews and might be edited.</small>
 
 
 
