@@ -5,11 +5,9 @@ date: "Mar 20 2024"
 draft: false
 tags:
 - NIS2
-- NIS2 Frist
-- NIS2 Unterstützung
 ---
 
 Die NIS2 Richtlinie schreibt vor, dass die betroffenen Unternehmen sich bis zum 06.03.2026 beim Portal des BSI registrieren. Davon sind ungefähr 30.000 Unternehmen in Deutschland betroffen.
 
-### Frist verpasst? Was jetzt?
+### Frist verpasst. Und was jetzt?
 Wenn Sie die Frist verpasst haben, sollten Sie Ruhe bewahren. Nach aktuellen Kenntnisstand besteht keine aktuelle Gefahr für Abmahnungen und Strafen.
