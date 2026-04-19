@@ -2,7 +2,7 @@
 title: "NIS 2 Richtlinie: Frist Verpasst? Was Sie jetzt tun müssen."
 summary: "Die Frist für die NIS2 Registrierung beim BSI endete am 6. März 2026. Was müssen Sie jetzt tun, wenn Sie sich nicht rechzeitig registrieren konnten?"
 date: "Mar 20 2024"
-draft: true
+draft: false
 tags:
 - NIS2
 - NIS2 Frist
